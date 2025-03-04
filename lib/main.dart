@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-
+import 'registrationPage.dart';
 void main() {
-  runApp(const MyApp());
+  runApp(const MyApp1());
 }
 
 class MyApp extends StatelessWidget {
